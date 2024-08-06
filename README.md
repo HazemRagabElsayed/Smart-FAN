@@ -51,11 +51,6 @@ Tools used:
 
 -Serial Bluetooth Terminal
 
-<h2 align="left">
-Note:
-</h2>
-
--There is a video provided in the folder
 
 <h3 align="left">👩‍💻  About Me</h3>
 
